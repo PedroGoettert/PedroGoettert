@@ -1,8 +1,16 @@
 # Greetings, I am Pedro Goettert 👋
 
 As a dedicated Frontend Developer at MKT Virtus, I craft immersive web experiences, focusing on responsive design and user-centric interfaces.
-<br />
-<br />
+<br>
+<br>
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PedroGoettert&theme=midnight-purple&locale=pt_BR)](https://git.io/streak-stats)
+  
+</div>
+
+<br>
 
 ## 🌐 Core Technologies
 My expertise lies in harnessing the power of the following technologies to bring digital landscapes to life:
@@ -28,5 +36,5 @@ Let's engage in the digital realm:
 <a href = "mailto:pedro.goettert@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-  
-
+<br>
+<br>
