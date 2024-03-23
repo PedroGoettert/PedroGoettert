@@ -6,7 +6,7 @@ As a dedicated Frontend Developer at MKT Virtus, I craft immersive web experienc
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=PedroGoettert&theme=midnight-purple&locale=pt_BR)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PedroGoettert&theme=midnight-purple)](https://git.io/streak-stats)
   
 </div>
 
